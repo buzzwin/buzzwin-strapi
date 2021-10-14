@@ -5,7 +5,7 @@
       "strapi",
       "heroku"
     ],
-    "repository": "https://github.com/buzzwin/buzzadvisor/api",
+    "repository": "https://github.com/buzzwin/buzzwin-strapi",
     "addons": [
       "heroku-postgresql:hobby-dev"
     ],
