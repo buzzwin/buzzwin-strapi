@@ -26,6 +26,6 @@ yarn && yarn run seed && yarn develop
 
 This will install the dependencies, fill your application with data and run your server. You can run these commands separately.
 
-<a href="https://www.heroku.com/deploy/?template=https://github.com/buzzwin/buzzadvisor/api">
+<a href="https://www.heroku.com/deploy/?template=https://github.com/buzzwin/buzzwin-strapi.git">
 <img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
 </a>
